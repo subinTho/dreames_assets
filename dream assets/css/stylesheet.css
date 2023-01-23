@@ -1,0 +1,589 @@
+@charset "utf-8";
+/* CSS Document */
+.main{
+	margin: 0 auto;
+	    font-family: 'Lato', sans-serif;
+}
+.head{
+	width: 80%;
+	margin: 0 auto;
+}
+.logo{
+	float: left;
+	width: 111px;
+	height: 79px;
+}
+.sign{
+	float: right;
+	padding-top: 30px;
+	padding-right: 10px;
+}
+.signin{
+	padding: 4px;
+	background-color: #faa005;
+	border: 0;
+	border-radius: 8px;
+	color: #fff;
+}
+.signup{
+	padding: 4px;
+	background-color: #faa005;
+	border: 0;
+	border-radius: 8px;
+	color: #fff;
+}
+.navigation li a{
+	text-decoration: none;
+	color: black;
+	font-weight: 525;
+}
+.navigation{
+	float: right;
+	padding-top: 33px;
+	padding-right: 20px;
+}
+.navigation li{
+	float: left;
+	padding-left: 10px;
+}
+.navigation li a:hover{
+	color: #FAA005;
+}
+.banner{
+	clear: both;
+	border-top: 5px solid #FAA005;
+	position: relative;
+	width: 100%;
+	height: 100vh;
+	background-size: cover;
+}
+.bannerbg{
+	width: 100%;
+	height: 100vh;
+	background-size: cover;
+}
+.bannerwidget{
+	position: absolute;
+	bottom: 15px;
+	width: 100%;
+}
+.widget{
+	margin: 0 auto;
+	width: 1000px;
+	background-color: #D1D1D1;
+	padding: 15px;
+	border-radius: 15px;
+}
+.property{
+	width: 167px;
+	border: 0;
+	border-radius: 30px;
+	background-color: ghostwhite;
+	padding: 9px;
+	padding-right: 280px;
+}
+.searchbutton{
+	padding: 10px;
+	background-color: #FAA005;
+	border: 0;
+	border-radius: 10px;
+	width: 100px;
+	color: #fff;
+}
+.block1{
+	width: 1000px;
+	margin: 0 auto;
+}
+.block1 h1{
+	font-weight: 800;
+	font-size: 35px;
+	text-align: center;
+}
+.project{
+	font-weight: 550;
+	font-size: 25px;
+}
+.avp{
+	text-align: center;
+	margin-top: 10px;
+}
+.line{
+	border-right: 3px solid #000;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.city{
+	background-color: #FAA005;
+	border: 0;
+	border-radius: 15px;
+	color: #fff;
+	padding: 10px;
+	font-weight: 600;
+	width: 115px;
+	margin-top: 10px;
+}
+.sales{
+	display: flex;
+	 margin-top: 10px;
+}
+.sales2{
+	display: flex;
+	margin-top: 10px;
+}
+
+.thalasseryimg{
+	width: 75%;
+}
+.thalassery{
+	position: relative;
+}
+.box{
+    background-color: #3E3E3E;
+    color: #fff;
+    width: 238px;
+    border-radius: 15px;
+    padding: 5px;
+    position: absolute;
+    bottom: 0;
+    left: 1px;
+	height: 55px;
+}
+.ponnaniimg{
+	max-width: 75%;
+}
+.ponnani{
+	position: relative;
+}
+.manarcaduimg{
+	max-width: 75%;
+}
+.manarcadu{
+	position: relative;
+}
+.thrikkakkara{
+	position: relative;
+}
+.thrikkakkaraimg{
+	max-width: 75%;
+}
+.vagamon{
+	position: relative;
+}
+.vagamonimg{
+	max-width: 75%;
+}
+.kalpetta{
+	position: relative;
+}
+.kalpettaimg{
+	max-width: 75%;
+}
+.detail{
+	background-color: #7BCBFF;
+	color: #fff;
+	border: 0;
+	border-radius: 10px;
+	padding: 5px;
+	float: right;
+}
+.placeDetails{
+	font-weight: 600;
+}
+.block2{
+	width: 80%;
+	position: relative;
+	margin: 0 auto;
+	margin-top: 65px;
+}
+.blockimg2{
+	 width: 40%;
+	margin-left: 117px;
+}
+.blockimg3{
+	width: 17%;
+	position: absolute;
+	left: 223px;
+	top: 88px;
+}
+.playbutton{
+	width: 3%;
+	position: absolute;
+	left: 307px;
+	top: 205px;
+}
+.weBest{
+	font-size: 55px;
+	font-weight: 700;
+}
+.block2 p{
+	font-size: 23px;
+	font-weight: 525;
+	line-height: 30px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.providebest{
+	display: flex;
+}
+.weprovide{
+	flex-direction: column;
+	justify-content: center;
+}
+.read{
+	padding: 10px;
+	background-color: #FAA005;
+	border: 0;
+	border-radius: 15px;
+	color: #fff;
+	font-weight: 525;
+	box-shadow: 1px 3px 5px #aea5a5;
+}
+.block3 h1{
+	font-weight: 800;
+	font-size: 35px;
+	text-align: center;
+	color: #000000;
+}
+.icons h4{
+	font-weight: 550;
+	font-size: 25px;
+	color: #000000;
+	text-align: center;
+	padding-bottom: 10px;
+}
+.icons p{
+	font-size: 10px;
+	font-weight: 525;
+	color: #000000;
+}
+.block3{
+	width: 1000px;
+	margin: 0 auto;
+}
+.icons{
+	display: flex;
+	margin-top: 35px;
+}
+.advantage{
+	border: 5px solid #7BCBFF;
+	border-radius: 15px;
+	padding: 38px;
+	flex-direction: column;
+	margin-right: 66px;
+}
+.advantage p{
+	text-align: center;
+}
+.block4{
+	margin-top: 30px;
+}
+.group{
+	position: relative;
+}
+.read2{
+	position: absolute;
+	right: 696px;
+	top: 277px;
+	color: #fff;
+	font-weight: 525;
+	box-shadow: 1px 3px 5px #aea5a5;
+	padding: 10px;
+	background-color: #FAA005;
+	border: 0;
+	border-radius: 15px;
+}
+.group p{
+	position: absolute;
+	right: 260px;
+	top: 21px;
+	font-size: 26px;
+	line-height: 1.5;
+	font-weight: 550;
+}
+.iconsdetail{
+	margin-top: 100px;
+}
+.block4 h1{
+	font-weight: 800;
+	font-size: 35px;
+	text-align: center;
+}
+.groupimg{
+	width: 25%;
+	margin-left: 220px;
+	margin-top: -18px;
+}
+.block5{
+	margin: 0 auto;
+	width: 80%;
+}
+.block5Agent{
+	width: 80%;
+    margin: 0 auto;
+	display: flex;
+}
+.agentDetail{
+	background-color: #E9E6D5;
+	height: 275px;
+	border-radius: 15px;
+	padding: 30px;
+	margin-top: 69px;
+	width: 18%;
+}
+.agentDetail h2{
+	font-weight: 600;
+}
+.agentDetail p{
+	font-size: 7px;
+}
+.connect{
+	padding: 10px;
+	background-color: #FAA005;
+	border: 0;
+	border-radius: 15px;
+	color: #fff;
+	font-weight: 600;
+	box-shadow: 1px 3px 5px #aea5a5;
+	    margin-top: 10px;
+}
+.agentnetwork{
+	margin-top: 15px;
+}
+.agentappoinment{
+	color: #0000000;
+	border: 0;
+	border-radius: 15px;
+	box-shadow: 1px 3px 5px #aea5a5;
+	padding: 7px;
+    width: 160px;
+}
+.connectAgent{
+	margin-bottom: 10px;
+}
+.block6{
+	position: relative;
+	margin-top: 50px;
+}
+.block6content{
+	background-color: #FFF5E5;
+	width: 80%;
+	margin: 0 auto;
+	padding: 10px;
+	border-radius: 15px;
+}
+.imagemask5{
+	width: 15%;
+	position: absolute;
+	left: 142px;
+	bottom: 0;
+}
+.block6content h4{
+	font-weight: 620;
+	font-size: 35px;
+	padding: 7px;
+	text-align: center;
+}
+.block6content p{
+	font-weight: 525;
+	padding: 12px;
+	text-align: center;
+	font-size: 22px;
+}
+.startbutton{
+	padding: 10px;
+	background-color: #7BCBFF;
+	border: 0;
+	border-radius: 15px;
+	color: #fff;
+	font-weight: 600;
+	box-shadow: 1px 3px 5px #aea5a5;
+	margin-left: 540px;
+}
+.callnumber p{
+	text-align: right;
+}
+.call{
+	position: absolute;
+	right: 365px;
+	bottom: 16px;
+}
+.whatsapp{
+	position: absolute;
+	right: 415px;
+	bottom: 16px;
+}
+.block7img{
+	width: 60%;
+}
+.block71img{
+	width: 60%;
+}
+.block7aview{
+	background-color: #CDDEE8;
+	padding: 10px;
+	max-width: 67%;
+	border-radius: 15px;
+	display: flex;
+}
+.block7ab{
+	display: flex;
+}
+.block7aview h4{
+	font-weight: 600;
+}
+.block7bview h4{
+	font-weight: 600;
+}
+.block7aview p{
+	font-size: 13px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.block7bview p{
+	font-size: 13px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.block7bview{
+	background-color: #CDDEE8;
+	border-radius: 15px;
+	display: flex;
+	max-width: 67%;
+	padding: 10px;
+}
+.block7{
+	width: 1000px;
+	margin: 0 auto;
+}
+.block7 h1{
+	text-align: center;
+	font-weight: 800;
+	font-size: 35px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.block9 h1{
+	text-align: center;
+	font-weight: 800;
+	font-size: 35px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.block7a{
+	width: 50%;
+}
+.block7b{
+	width: 50%;
+}
+.block9{
+	width: 1000px;
+	margin: 0 auto;
+}
+.detail2{
+	color: #fff;
+	font-weight: 525;
+	box-shadow: 1px 3px 5px #aea5a5;
+	padding: 10px;
+	background-color: #FAA005;
+	border: 0;
+	border-radius: 15px;
+}
+.yedhualan{
+	display: flex;
+}
+.yedhuimg{
+	max-width: 45%;
+}
+.alanimg{
+	max-width: 45%;
+}
+.yedhuviewcontent p{
+	text-align: center;
+	margin-top: 10px;
+}
+.yedhu{
+	border-radius: 15px;
+	border: 5px solid #7BCBFF;
+	box-shadow: 2px 10px 12px #aea5a5;
+	padding: 10px;
+	margin: 17px;
+}
+.alan{
+	border-radius: 15px;
+	border: 5px solid #7BCBFF;
+	box-shadow: 2px 10px 12px #aea5a5;
+	padding: 10px;
+	margin: 17px;
+}
+.alanviewcontent p{
+	text-align: center;
+	margin-top: 10px;
+}
+.yedhuviewname{
+	flex-direction: column;
+	margin-top: 10px;
+	margin-left: -55px;
+}
+.alanviewimg{
+	display: flex;
+}
+.yedhuviewimg{
+	display: flex;
+}
+.alanviewname{
+	flex-direction: column;
+	margin-top: 10px;
+	margin-left: -55px;
+}
+.alanviewname h4{
+	margin-bottom: 10px;
+}
+.yedhuviewname h4{
+	margin-bottom: 10px;
+}
+.starcimg{
+	max-width: 32%;
+}
+.staraimg{
+	max-width: 32%;
+}
+.viewmore{
+	color: #00A8E9;
+}
+.comp{
+	flex-direction: column;
+	margin-right: 55px;
+}
+.comp h6{
+	font-weight: 600;
+	padding-bottom: 10px;
+}
+.comp p{
+	font-weight: 520;
+	font-size: 12px;
+	padding-bottom: 7px;
+}
+.dreamend{
+	border-top: 5px solid #FAA005;
+	margin-top: 20px;
+}
+.dreamenda{
+	width: 1000px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.dreamendb{
+	display: flex;
+}
+.footlogo{
+	margin-right: 36px;
+}
+.fb{
+	max-width: 60%;
+}
+.in{
+	max-width: 60%;
+}
+.wh{
+	max-width: 60%;
+}
